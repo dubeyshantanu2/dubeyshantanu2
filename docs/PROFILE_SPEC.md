@@ -24,6 +24,7 @@ This repository (`dubeyshantanu2/dubeyshantanu2`) serves as the official public 
 
 4. **Contribution Snake Animation**:
    - Workflow: `.github/workflows/snake.yml`
-   - Engine: `Platane/snk/svg-only@v3`
+   - Engine: `Platane/snk/svg-only` pinned to immutable commit SHA `d8f6715049803e982ee5ff501b6b9b7d5deeb09b` (v3.5.0)
+   - Deployer: `crazy-max/ghaction-github-pages` pinned to immutable commit SHA `c0d7ff0487ee0415efb7f32dab10ea880330b1dd` (v3.1.0)
    - Target Branch: `output`
    - Render: Theme-aware `<picture>` element supporting GitHub dark and light modes.
