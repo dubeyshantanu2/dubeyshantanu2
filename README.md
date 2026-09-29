@@ -38,7 +38,7 @@
 - 📱 **Cross-Platform Architect**: Over **7+ years** shipping production-grade React Native & mobile architectures for high-growth startups and scaled enterprise platforms.
 - 🤖 **AI & Agentic Systems**: Orchestrating multi-agent LLM systems, Model Context Protocol (MCP) servers, deterministic tool verification, and autonomous coding loops.
 - 📈 **Algorithmic Trading Infrastructure**: Engineering low-latency execution engines, order-flow pipelines, and market microstructure event dispatchers.
-- 📍 **Base**: Bengaluru, India 🇮🇳
+- 📍 **Base**: Lucknow, India 🇮🇳
 - 🌐 **Portfolio**: [shantanu-portfolio.fly.dev](https://shantanu-portfolio.fly.dev)
 
 ---
